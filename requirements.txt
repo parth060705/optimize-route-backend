@@ -1,0 +1,8 @@
+Flask
+flask-cors
+flask-sqlalchemy
+pandas
+numpy
+scikit-learn
+ortools
+Werkzeug
